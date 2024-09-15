@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gabriel-Saraiva-de-Gouveia, current Barchelors Degree Student in Informatics, at the State University of Maringá
+- 👋 Hi, I’m @Gabriel-Saraiva-de-Gouveia, current Barchelors Degree Student in Informatics, at the State University of Maringá, and Administrative Assistent, at City Hall of my city.
 - 👀 I’m interested in Data Science, Web Development, Software Development and many other areas related to IT
-- 🌱 I’m currently learning Object Oriented Programming, Design Patterns, Software Architecture.
+- 🌱 I’m currently learning Object Oriented Programming, Design Patterns, Software Architecture, Data Engineering.
 - 📫 How to reach me e-mail: saraivadegouveiagabriel@gmail.com
 
 <!---
